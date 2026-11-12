@@ -1,0 +1,57 @@
+Message-ID: <179452258220.167.16676860982294198307.inline-02@d9a5845be0e3>
+From: ops@vendor.example
+To: intake@example.cn
+Subject: =?utf-8?b?5Zu+5paH6K+05piO6YKu5Lu2?=
+Date: Thu, 12 Nov 2026 22:29:42 -0000
+Received: from mail-gateway.example.cn (10.20.0.1) by mx.example.cn with
+ ESMTP; Thu, 12 Nov 2026 22:29:42 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1820410315056246110=="
+
+--===============1820410315056246110==
+Content-Type: multipart/alternative;
+ boundary="===============5299328394486228672=="
+
+--===============5299328394486228672==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+纯文本正文（无图版本）。
+
+--===============5299328394486228672==
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="===============2633814422904286236=="
+
+--===============2633814422904286236==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+PHA+6K+355yL5LiL5Zu+5Lit55qE5pWw5o2u6K+05piO77yaPC9wPjxpbWcg
+c3JjPSJjaWQ6ZGlhZ3JhbS0wMDEiIGFsdD0i56S65oSP5Zu+Ii8+PC9ib2R5PjwvaHRtbD4K
+
+--===============2633814422904286236==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E7%A4%BA%E6%84%8F%E5%9B%BE.png
+Content-ID: <diagram-001>
+MIME-Version: 1.0
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACklEQVR4nGNgAAACAAEA//8DAAAG
+AAVXv6tBAAAAAElFTkSuQmCC
+
+--===============2633814422904286236==--
+
+--===============5299328394486228672==--
+
+--===============1820410315056246110==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E9%99%84%E5%9B%BE%E6%95%B0%E6%8D%AE.csv
+MIME-Version: 1.0
+
+77u/ayx2DQphLDENCg==
+
+--===============1820410315056246110==--

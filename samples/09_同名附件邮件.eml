@@ -1,0 +1,35 @@
+Message-ID: <179452258222.167.14958019336045602580.same-name-09@d9a5845be0e3>
+From: dup-name@vendor.example
+To: intake@example.cn
+Subject: =?utf-8?b?5ZCM5ZCN6ZmE5Lu25rWL6K+V?=
+Date: Thu, 12 Nov 2026 22:29:42 -0000
+Received: from mail-gateway.example.cn (10.20.0.1) by mx.example.cn with
+ ESMTP; Thu, 12 Nov 2026 22:29:42 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5195641495747849748=="
+
+--===============5195641495747849748==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+两个附件同名，应分别保留并标注 MIME 路径。
+
+--===============5195641495747849748==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E5%AF%B9%E8%B4%A6%E6%98%8E%E7%BB%86.csv
+MIME-Version: 1.0
+
+77u/54mI5pysDQpBDQo=
+
+--===============5195641495747849748==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E5%AF%B9%E8%B4%A6%E6%98%8E%E7%BB%86.csv
+MIME-Version: 1.0
+
+77u/54mI5pysDQpCDQo=
+
+--===============5195641495747849748==--

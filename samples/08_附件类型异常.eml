@@ -1,0 +1,54 @@
+Message-ID: <179452258221.167.17486584385726747884.anomaly-08@d9a5845be0e3>
+From: qa@vendor.example
+To: intake@example.cn
+Subject: =?utf-8?b?6ZmE5Lu257G75Z6L5qC45a+55rWL6K+V?=
+Date: Thu, 12 Nov 2026 22:29:42 -0000
+Received: from mail-gateway.example.cn (10.20.0.1) by mx.example.cn with
+ ESMTP; Thu, 12 Nov 2026 22:29:42 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8344799544315932906=="
+
+--===============8344799544315932906==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+附件扩展名与真实格式不符，应进入异常列表。
+
+--===============8344799544315932906==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E4%BC%AA%E9%80%A0%E5%8D%95%E6%8D%AE.pdf
+MIME-Version: 1.0
+
+77u/ZmFrZQ0KMQ0K
+
+--===============8344799544315932906==
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E6%8D%9F%E5%9D%8F%E5%B7%A5%E4%BD%9C%E7%B0%BF.xlsx
+MIME-Version: 1.0
+
+6L+Z5qC55pys5LiN5piv5LiA5Liq5Y6L57yp5YyF
+
+--===============8344799544315932906==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E7%9C%9F%E5%AE%9E%E5%8D%95%E6%8D%AE.pdf
+MIME-Version: 1.0
+
+JVBERi0xLjQKMSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZyAvUGFnZXMgMiAwIFIgPj4KZW5kb2Jq
+CjIgMCBvYmoKPDwgL1R5cGUgL1BhZ2VzIC9LaWRzIFszIDAgUl0gL0NvdW50IDEgPj4KZW5kb2Jq
+CjMgMCBvYmoKPDwgL1R5cGUgL1BhZ2UgL1BhcmVudCAyIDAgUiAvTWVkaWFCb3ggWzAgMCA2MTIg
+NzkyXSAvUmVzb3VyY2VzIDw8IC9Gb250IDw8IC9GMSA1IDAgUiA+PiA+PiAvQ29udGVudHMgNCAw
+IFIgPj4KZW5kb2JqCjQgMCBvYmoKPDwgL0xlbmd0aCAzNSA+PgpzdHJlYW0KQlQgL0YxIDE4IFRm
+IDcyIDcyMCBUZCAoUmVhbCkgVGogRVQKZW5kc3RyZWFtCmVuZG9iago1IDAgb2JqCjw8IC9UeXBl
+IC9Gb250IC9TdWJ0eXBlIC9UeXBlMSAvQmFzZUZvbnQgL0hlbHZldGljYSA+PgplbmRvYmoKeHJl
+ZgowIDYKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwNTgg
+MDAwMDAgbiAKMDAwMDAwMDExNSAwMDAwMCBuIAowMDAwMDAwMjQxIDAwMDAwIG4gCjAwMDAwMDAz
+MjYgMDAwMDAgbiAKdHJhaWxlcgo8PCAvU2l6ZSA2IC9Sb290IDEgMCBSID4+CnN0YXJ0eHJlZgoz
+OTYKJSVFT0Y=
+
+--===============8344799544315932906==--
